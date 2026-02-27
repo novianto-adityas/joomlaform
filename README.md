@@ -1,28 +1,31 @@
-# Interactive Multi-Tab Employee Performance Application
+# Employee Performance App
 
 ## Overview
-This project is an interactive multi-tab application designed to evaluate and manage employee performance efficiently. It is built to support Joomla, providing a seamless integration within the Joomla framework, allowing for dynamic data management and user interaction.
+The Employee Performance App is designed to help organizations track and evaluate employee performance effectively. This app enables managers and HR professionals to gather insights into employee performance metrics, set objectives, and conduct performance reviews.
 
 ## Features
-- **Multi-Tab Navigation**: The application features multiple tabs for different functionalities such as performance tracking, feedback management, and reporting.
-- **Employee Profiles**: Each employee has a dedicated profile where their performance metrics, goals, and feedback can be accessed.
-- **Performance Metrics**: The application allows for the input and tracking of various performance metrics, which can be customized to fit the organization's needs.
-- **Feedback System**: Managers can provide feedback directly within the application, which is easily accessible to employees.
-- **Reporting Tools**: Generate reports based on the data collected, available in various formats for analysis.
+- **Dashboard**: A user-friendly interface that provides an overview of performance metrics.
+- **Goal Setting**: Allows employees and managers to set performance goals.
+- **Performance Reviews**: Enables structured performance evaluation through customizable review templates.
+- **Feedback Mechanism**: Facilitates continuous feedback between employees and managers.
+- **Analytics**: Generate reports and insights based on performance data.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/novianto-adityas/joomlaform.git
-   ```
-2. Install the required Joomla extensions and modules.
-3. Follow the setup instructions included in this repository to configure the application.
+## Getting Started
+1. **Clone the Repository**:  
+   Use the command: `git clone https://github.com/novianto-adityas/joomlaform.git`
+2. **Install Dependencies**:  
+   Run the command: `npm install` or `yarn install`.
+3. **Start the Application**:  
+   Use the command: `npm start` or `yarn start` to launch the app.
 
-## Usage
-Once installed, you can access the application from the Joomla dashboard. Users can navigate through the tabs to manage and review employee performance data.
+## Configuration
+- Update the `.env` file with your environment-specific settings.
 
 ## Contribution
-Feel free to fork the repository and submit pull requests for improvements or new features! Please follow the standard coding guidelines and write tests for any new functionality you add.
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For queries, please reach out to [your-email@example.com].
